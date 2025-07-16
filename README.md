@@ -21,26 +21,8 @@ I’m a passionate developer diving into **AI/ML**, **Java**, **Python**, and **
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
 
-## 🌟 Featured Projects
-- **[Project 1](https://github.com/YourUsername/project1)**  
-  *A sleek Java app with Spring Boot integration.*  
-  Built with: Java, Spring Boot, MySQL  
 
-- **[Project 2](https://github.com/YourUsername/project2)**  
-  *An AI-powered tool leveraging Python and TensorFlow.*  
-  Built with: Python, TensorFlow, Pandas  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dracula&hide_border=true" alt="GitHub Streak" width="45%" />
-</div>
-
----
 
 ## 📡 Let’s Connect!
 <div align="center">
@@ -51,7 +33,4 @@ I’m a passionate developer diving into **AI/ML**, **Java**, **Python**, and **
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
 </div>
 
----
 
-## ✨ Explore My Journey
-Dive into my repositories and witness my passion for coding unfold! From elegant algorithms to innovative AI models, there’s something here for every tech enthusiast.
