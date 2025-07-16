@@ -26,11 +26,7 @@ I’m a passionate developer diving into **AI/ML**, **Java**, **Python**, and **
 
 ## 📡 Let’s Connect!
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" width="40"/>
-    
-  </a>
-  <a href="https://github.com/YourUsername"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
+  <a href="https://www.linkedin.com/in/manuja-hapuarachchi-63a327290/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
 </div>
 
 
