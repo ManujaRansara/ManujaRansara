@@ -7,7 +7,7 @@
 ---
 
 ## 🌠 About Me
-I’m a passionate developer diving into **AI/ML**, **Java**, **Python**, and **Software Engineering**. I love building impactful solutions with **MERN**, **Spring Boot**, and cutting-edge tech like **TensorFlow**, while sharpening my skills in **Data Structures** and **DevOps**.
+I’m a passionate developer diving into **AI/ML**, **Cloud** ,**Devops** and Overall love to see the big picture how SDLC work. I mastered data structures and algorithms using C and Java and have solid understanding about fundamentals of CS (familiar with ubuntu). I have overall understanding about Requirement Gathering , Priortizing , Development and Deployment. Most of the time I love to work in Operation part and Accelarating overall SDLC.I love building and deploying impactful solutions with **MERN**, **Spring Boot**, and cutting-edge tech like **TensorFlow**, while sharpening my skills in  **DevOps** , **Cloud** and **ML**.
 
 ---
 
